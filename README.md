@@ -1,4 +1,5 @@
 # 📊 Análisis Mensual de Inversión Publicitaria - Medios Tradicionales y Digitales
+# Año: 2023
 
 Este proyecto presenta un análisis mensual de inversión publicitaria basado en datos provenientes de medios **tradicionales** (TV, radio, prensa, OOH) y **digitales**. Utiliza **Google BigQuery** como plataforma para consolidar, transformar y modelar los datos, y **Power BI** como herramienta de visualización.
 
