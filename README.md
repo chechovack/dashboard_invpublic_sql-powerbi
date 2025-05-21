@@ -46,5 +46,33 @@ Consolidar e interpretar información de inversión publicitaria de múltiples p
 
 ---
 
-## 🗂️ Estructura del Repositorio
 
+## 🧠 Resultados y Hallazgos
+
+- 📈 Identificación de picos de inversión por ciudad y canal durante campañas clave.
+- ⚖️ Comparativo de comportamiento entre medios digitales y tradicionales.
+- ⏱️ Automatización del análisis mensual mediante uso de BigQuery como backend.
+
+---
+
+## 🧰 Herramientas Utilizadas
+
+| Herramienta | Propósito |
+|-------------|-----------|
+| Excel | Formato original de las bases mensuales |
+| Google BigQuery | Almacenamiento, limpieza y modelado con SQL |
+| Power BI | Visualización de datos conectada en tiempo real |
+
+---
+
+## 📌 Requisitos para Ejecutar
+
+- Power BI Desktop con conexión a BigQuery habilitada.
+- Acceso a los archivos Excel y proyecto en BigQuery (no incluidos por confidencialidad).
+
+---
+## 🙋 Sobre mí
+
+👨‍💻 Sergio Martínez  
+*Data Scientist | Machine Learning | Automatization*  
+📫 smartinezx99@gmail.com | [LinkedIn](https://www.linkedin.com/in/sergio-mart%C3%ADnez-b26301176/)
